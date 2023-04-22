@@ -1,1 +1,1 @@
-# Financial-Reporting-and-Analysis-using-SQL
+# Financial Reporting and Analysis using SQL
